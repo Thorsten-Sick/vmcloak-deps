@@ -14,3 +14,7 @@ vcredist_2012_x64.exe = http://download.microsoft.com/download/1/6/B/16B06F60-3B
 
 vcredist_2013_x86.exe = http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x86.exe
 vcredist_2013_x64.exe = http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe
+
+AdbeRdr60_enu_full.exe = http://www.oldapps.com/adobe_reader.php?app=7F40197629C6D709958ED81DBEA06216
+
+jre-6u16-windows-i586.exe = http://www.oldapps.com/java.php?app=5b842cdc007fee043eacb2f3b21ea32b
